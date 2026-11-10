@@ -1,8 +1,10 @@
 <!-- ELAIZA | SAGE GARDEN -->
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=344E41&height=190&section=header&text=Elaiza's%20Garden&fontSize=42&fontColor=F5F3EA&fontAlignY=38&desc=code%20%7C%20curiosity%20%7C%20growth&descAlignY=60&descSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=344E41&height=190&section=header&text=%F0%9D%93%94%F0%9D%93%B5%F0%9D%93%AA%F0%9D%93%B2%F0%9D%93%BD%F0%9D%93%AA%27%F0%9D%93%BC%20%F0%9D%93%96%F0%9D%93%AA%F0%9D%93%BB%F0%9D%93%AD%F0%9D%93%AE%F0%9D%93%B7&fontSize=42&fontColor=F5F3EA&fontAlignY=38&desc=code%20%7C%20curiosity%20%7C%20growth&descAlignY=60&descSize=15" width="100%"/>
 </p>
+
 
 <h3 align="center">🌱 Hello, world! I'm Elaiza.</h3>
 
