@@ -55,6 +55,30 @@ I'm a Computer Science student interested in technology, problem-solving, and bu
   <img src="./profile/top-langs.svg" width="48%" />
 </p>
 
+
+---
+
+## 🐍 My Contribution Garden
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Aiza-C/Aiza-C/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Aiza-C/Aiza-C/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/Aiza-C/Aiza-C/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
+
 ## 🐸 Currently Growing
 
 - 🌱 Improving my programming skills
