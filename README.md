@@ -21,11 +21,16 @@
 
 I'm a Computer Science student interested in technology, problem-solving, and building meaningful projects.
 
+
 - 🎓 Computer Science Student
 - 🧠 Exploring Artificial Intelligence and Machine Learning
 - ☁️ Interested in Cloud Computing
 - 💻 Learning through hands-on projects
 - 🌻 Always curious about how things work
+
+<p align="center">
+  <img src="./assets/botanical-divider.svg" width="100%" />
+</p>
 
 ## 🪴 Tech Stack
 
@@ -35,6 +40,10 @@ I'm a Computer Science student interested in technology, problem-solving, and bu
   <img src="https://img.shields.io/badge/C++-355E3B?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-588157?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-588157?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="./assets/botanical-divider.svg" width="100%" />
 </p>
 
 ## 🌷 My Projects
@@ -47,6 +56,9 @@ I'm a Computer Science student interested in technology, problem-solving, and bu
 | 🥀 [Kawangis](https://github.com/Aiza-C/kawangis) | Psychological romantic-horror visual novel |
 | 🌱 [CSyllabus](https://github.com/Aiza-C/csyllabus) | BSCS curriculum tracker |
 
+<p align="center">
+  <img src="./assets/botanical-divider.svg" width="100%" />
+</p>
 
 ## 🌳 GitHub Garden
 
@@ -55,7 +67,9 @@ I'm a Computer Science student interested in technology, problem-solving, and bu
   <img src="./profile/top-langs.svg" width="48%" />
 </p>
 
-
+<p align="center">
+  <img src="./assets/botanical-divider.svg" width="100%" />
+</p>
 ---
 
 ## 🐍 My Contribution Garden
@@ -76,6 +90,10 @@ I'm a Computer Science student interested in technology, problem-solving, and bu
       width="100%"
     />
   </picture>
+</p>
+
+<p align="center">
+  <img src="./assets/botanical-divider.svg" width="100%" />
 </p>
 
 
