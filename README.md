@@ -1,9 +1,9 @@
 <!-- ELAIZA | SAGE GARDEN -->
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=344E41&height=190&section=header&text=%F0%9D%93%94%F0%9D%93%B5%F0%9D%93%AA%F0%9D%93%B2%F0%9D%93%BD%F0%9D%93%AA%27%F0%9D%93%BC%20%F0%9D%93%96%F0%9D%93%AA%F0%9D%93%BB%F0%9D%93%AD%F0%9D%93%AE%F0%9D%93%B7&fontSize=42&fontColor=F5F3EA&fontAlignY=38&desc=code%20%7C%20curiosity%20%7C%20growth&descAlignY=60&descSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=344E41&height=190&section=header&text=%F0%9D%91%AC%F0%9D%92%8D%F0%9D%92%82%F0%9D%92%8A%F0%9D%92%9B%F0%9D%92%82%27%F0%9D%92%94%20%F0%9D%91%AE%F0%9D%92%82%F0%9D%92%93%F0%9D%92%85%F0%9D%92%86%F0%9D%92%8F&fontSize=42&fontColor=F5F3EA&fontAlignY=38&desc=%F0%9D%91%90%F0%9D%92%90%F0%9D%92%85%F0%9D%92%86%20%7C%20%F0%9D%92%84%F0%9D%92%96%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%90%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%95%F0%9D%92%9A%20%7C%20%F0%9D%92%88%F0%9D%92%93%F0%9D%92%90%F0%9D%92%98%F0%9D%92%95%F0%9D%92%89&descAlignY=60&descSize=15" width="100%"/>
 </p>
+
 
 
 <h3 align="center">🌱 Hello, world! I'm Elaiza.</h3>
