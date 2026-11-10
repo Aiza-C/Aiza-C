@@ -42,9 +42,6 @@ I'm a Computer Science student interested in technology, problem-solving, and bu
   <img src="https://img.shields.io/badge/CSS3-588157?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="./assets/botanical-divider.svg" width="100%" />
-</p>
 
 ## 🌷 My Projects
 
