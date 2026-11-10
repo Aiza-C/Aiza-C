@@ -47,11 +47,12 @@ I'm a Computer Science student interested in technology, problem-solving, and bu
 | 🥀 [Kawangis](https://github.com/Aiza-C/kawangis) | Psychological romantic-horror visual novel |
 | 🌱 [CSyllabus](https://github.com/Aiza-C/csyllabus) | BSCS curriculum tracker |
 
+
 ## 🌳 GitHub Garden
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aiza-C&show_icons=true&hide_border=true&bg_color=F5F3EA&title_color=344E41&icon_color=588157&text_color=344E41" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiza-C&layout=compact&hide_border=true&bg_color=F5F3EA&title_color=344E41&text_color=344E41" width="48%"/>
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/top-langs.svg" width="48%" />
 </p>
 
 ## 🐸 Currently Growing
