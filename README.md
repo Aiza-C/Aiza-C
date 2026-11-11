@@ -50,7 +50,7 @@ I'm a Computer Science student interested in technology, problem-solving, and bu
 |---|---|
 | 🌿 [Hulma](https://github.com/Aiza-C/hulma) | Body-type fashion recommender |
 | 🍀 [Talas](https://github.com/Aiza-C/talas) | Relevant online shopping review filter |
-| 🧟 [WRATE](https://github.com/Aiza-C/what-remains-after-the-end) | Zombie apocalypse interactive novel |
+| 🧟 [WRATE](https://github.com/Aiza-C/WRATE) | Zombie apocalypse interactive novel |
 | 🥀 [Kawangis](https://github.com/Aiza-C/kawangis) | Psychological romantic-horror visual novel |
 | 🌱 [CSyllabus](https://github.com/Aiza-C/csyllabus) | BSCS curriculum tracker |
 
